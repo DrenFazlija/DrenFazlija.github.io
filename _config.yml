@@ -6,12 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-
-minimal_mistakes_skin	 : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Wadhah/ Zai El Amri"
 title_separator          : "-"
-name                     : &name "Wadhah Zai El Amri"
+name                     : &name "wzaielamri"
 description              : &description "Personal Website"
 url                      : https://wzaielamri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -59,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "wzaielamri"
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -84,8 +82,7 @@ analytics:
 author:
   name             : "Wadhah Zai El Amri"
   avatar           : "profile.png"
-  bio              : "PhD Student 🎓
-ML and Intelligent Systems Enthusiast 🧠🦾💻"
+  bio              : "PhD Student 🎓                  ML and Intelligent Systems Enthusiast 🧠🦾💻"
   location         : "Germany"
   employer         : "L3S Research Center" 
   pubmed           : 
@@ -112,7 +109,7 @@ ML and Intelligent Systems Enthusiast 🧠🦾💻"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "wzaielamri"
   vine             :
   weibo            :
   xing             :

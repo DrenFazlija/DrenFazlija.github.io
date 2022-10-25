@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wadhah/ Zai El Amri"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Wadhah Zai El Amri"
+description              : &description "Personal Website"
+url                      : https://wzaielamri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "wzaielamri/wzaielamri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "wzaielamri"
 facebook:
   username               :
   app_id                 :
@@ -80,30 +80,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Wadhah Zai El Amri"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student 🎓
+ML and Intelligent Systems Enthusiast 🧠🦾💻"
+  location         : "Germany"
+  employer         : "L3S Research Center" 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.co.uk/citations?user=S-N6MacAAAAJ&hl=en"
+  email            : "wadhah.zai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "wzaielamri"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  "www.linkedin.com/in/wadhah-zaielamri"
+  orcid            : "http://orcid.org/0000-0002-0238-4437"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

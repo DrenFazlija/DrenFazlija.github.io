@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Leibniz University Hannover, 08/2022 - present
+* Ph.D in Computer Science, Leibniz University Hannover, 08/2022 - present
 * M.S. in Intelligent Systems, Bielefeld University, 09/2016 - 01/2021
 * B.Eng. in Computer Engineering, Bielefeld University of Applied Sciences, 04/2021 - 04/2022
 

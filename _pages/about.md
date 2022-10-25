@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wadhah Zai El Amri"
+title: "Every Day is a New Opportunity"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

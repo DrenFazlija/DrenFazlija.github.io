@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, Leibniz University Hannover, 08/2022 - present
+* M.S. in Intelligent Systems, Bielefeld University, 09/2016 - 01/2021
+* B.Eng. in Computer Engineering, Bielefeld University of Applied Sciences, 04/2021 - 04/2022
 
 Work experience
 ======

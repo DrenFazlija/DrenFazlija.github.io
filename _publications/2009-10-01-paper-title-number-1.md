@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Open set task augmentation facilitates generalization of deep neural networks trained on small data sets"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/osta
+excerpt: 'Machine Learning, Deep Learning, Image Processing.'
+date: 2021-12-09
+venue: 'Neural Computing and Applications, 34, 6067–6083'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Wadhah Zai El Amri, Felix Reinhart, Wolfram Schenck (2022). &quot;Open set task augmentation facilitates generalization of deep neural networks trained on small data sets.&quot; <i>Neural Computing and Applications, 34, 6067–6083</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Machine Learning, Deep Learning, Image Processing.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://wzaielamri.github.io/files/osta_zaielamri.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Your Name, You. (2009). "Open set task augmentation facilitates generalization of deep neural networks trained on small data sets." <i>Neural Computing and Applications, 34, 6067–6083</i>.

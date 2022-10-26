@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. Work on progress!
+Welcome to my website. 
+Work on progress!
+

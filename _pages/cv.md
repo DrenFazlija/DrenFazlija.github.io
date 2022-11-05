@@ -17,24 +17,36 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2021 - 04/2022: Research Assistant
+  * Center for Applied Data Science in Gütersloh (CfADS) - Germany
+  * Duties included: Machine Learning, Robotik
+  * Supervisor: Prof. Dr.-Ing. Wolfram Schenck
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2019 - 01/2020: Intern
+  * Miele & Cie. KG in Gütersloh - Germany
+  * Duties included: Artificial Intelligence, Data Science
+  * Supervisor: Dr. rer. nat. Felix Reinhart
   
+* 01/2019 - 07/2019: Working Student
+  * Center for Applied Data Science in Gütersloh (CfADS) - Germany
+  * Duties included: Machine Learning, Computer Vision
+  * Supervisor: Prof. Dr.-Ing. Wolfram Schenck
+
+* 12/2017 - 12/2018: Working Student
+  * Ceres Vision GmbH in Bielefeld - Germany
+  * Duties included: Computer Vision
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Polyglot
+  * Arabic
+  * English
+  * French
+  * German
+* Programming Languages: Python, C++, C, Assembler, Java, C#
+* ML Frameworks: Keras, TensorFlow, PyTorch, RLlib
+* Tools: ROS, MoveIt, MuJoCo, PyBullet, Gazebo
 
 Publications
 ======
@@ -44,16 +56,19 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <!--<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!--<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* Travelling
+* Astronomy
+* Running
+* Bikeing 

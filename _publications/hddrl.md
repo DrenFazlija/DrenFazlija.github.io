@@ -12,4 +12,4 @@ Topics: Machine Learning, Deep Reinforcement Learning, Motor Control.
 
 [Download paper here](http://wzaielamri.github.io/files/hddrl_zaielamri.pdf)
 
-Code: [<img src="../images/GitHub-Mark.png">](https://github.com/wzaielamri/hddrl)
+Code: [<img src="../images/GitHub-Mark.png" width="50" height="50">](https://github.com/wzaielamri/hddrl)

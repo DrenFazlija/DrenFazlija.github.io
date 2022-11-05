@@ -12,4 +12,4 @@ Topics: Machine Learning, Deep Learning, Audio Signal Processing, Transfer Learn
 
 [Download paper here](http://wzaielamri.github.io/files/unmix_zaielamri.pdf)
 
-Code: [<img src="../images/GitHub-Mark.png">](https://github.com/wzaielamri/unmix)
+Code: [<img src="../images/GitHub-Mark.png" width="50" height="50">](https://github.com/wzaielamri/unmix)

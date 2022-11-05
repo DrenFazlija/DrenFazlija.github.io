@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/hddrl
 excerpt: 'Topics: Machine Learning, Deep Reinforcement Learning, Motor Control.'
 date: 2022-09-21
-venue: 'arXiv:2210.08003'
+venue: 'The 8th International Online & Onsite Conference on Machine Learning, Optimization, and Data Science'
 paperurl: 'https://arxiv.org/abs/2210.08003'
-citation: 'Wadhah Zai El Amri, Luca Hermes, Malte Schilling (2022). &quot;Hierarchical Decentralized Deep Reinforcement Learning Architecture for a Simulated Four-Legged Agent.&quot; <i>arXiv:2210.08003</i>.'
 ---
 Topics: Machine Learning, Deep Reinforcement Learning, Motor Control.
 

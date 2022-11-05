@@ -11,4 +11,5 @@ citation: 'Wadhah Zai El Amri, Luca Hermes, Malte Schilling (2022). &quot;Hierar
 Topics: Machine Learning, Deep Reinforcement Learning, Motor Control.
 
 [Download paper here](http://wzaielamri.github.io/files/hddrl_zaielamri.pdf)
-[<img src="images/GitHub-Mark.png">](https://github.com/wzaielamri/hddrl)
+
+Code: [<img src="../images/GitHub-Mark.png">](https://github.com/wzaielamri/hddrl)

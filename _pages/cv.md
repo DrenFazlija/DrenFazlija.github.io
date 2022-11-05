@@ -37,6 +37,13 @@ Work experience
   * Duties included: Computer Vision
 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Skills
 ======
 * Polyglot
@@ -48,13 +55,7 @@ Skills
 * ML Frameworks: Keras, TensorFlow, PyTorch, RLlib
 * Tools: ROS, MoveIt, MuJoCo, PyBullet, Gazebo
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-  
 Hobbies
 ======
 * Travelling

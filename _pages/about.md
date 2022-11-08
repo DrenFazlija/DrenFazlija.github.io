@@ -15,7 +15,7 @@ My name is **Wadhah**, and I am pursuing my **PhD at L3S Research Center** in Ge
 
 My **research interests** include artificial intelligence, machine learning, reinforcement learning, personalized medicine, robotics and computer vision.
 
-If you are intressted in discussing such topics feel free to contact me :) .
+If you are intressted in discussing such topics feel free to contact me 😊 .
 
 
 ## Publications

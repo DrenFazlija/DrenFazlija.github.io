@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 06/2021 - 04/2022: Research Assistant
+* 06/2020 - 04/2022: Research Assistant
   * Center for Applied Data Science in Gütersloh (CfADS) - Germany
   * Duties included: Machine Learning, Robotik
   * Supervisor: Prof. Dr.-Ing. Wolfram Schenck

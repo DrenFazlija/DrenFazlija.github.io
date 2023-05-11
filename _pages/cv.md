@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Leibniz University Hannover, 08/2022 - present
-* M.S. in Intelligent Systems, Bielefeld University, 09/2016 - 01/2021
-* B.Eng. in Computer Engineering, Bielefeld University of Applied Sciences, 04/2021 - 04/2022
+* M.S. in Intelligent Systems, Bielefeld University, 04/2020 - 04/2022
+* B.Eng. in Computer Engineering, Bielefeld University of Applied Sciences, 09/2016 - 01/2020
 
 Work experience
 ======
-* 06/2021 - 04/2022: Research Assistant
+* 06/2020 - 04/2022: Research Assistant
   * Center for Applied Data Science in Gütersloh (CfADS) - Germany
   * Duties included: Machine Learning, Robotik
   * Supervisor: Prof. Dr.-Ing. Wolfram Schenck

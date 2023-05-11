@@ -43,6 +43,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Teaching experience
+======
+* Sommer Semester 2023: Teachers Assistant in the course Foundations of Information Retrieval at the Leibniz University Hannover.
 
 Skills
 ======

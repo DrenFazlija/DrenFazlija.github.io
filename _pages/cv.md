@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Leibniz University Hannover, 08/2022 - present
-* M.S. in Intelligent Systems, Bielefeld University, 04/2020 - 04/2022
-* B.Eng. in Computer Engineering, Bielefeld University of Applied Sciences, 09/2016 - 01/2020
+* Ph.D. in Computer Science, Leibniz University Hannover, 07/2022 - present
+* M.Sc. in Computer Science, Leibniz University Hannover, 10/2019 - 01/2022
+* B.Sc. in Computer Science, Leibniz University Hannover, 10/2016 - 09/2019
 
 Work experience
 ======
-* 06/2020 - 04/2022: Research Assistant
-  * Center for Applied Data Science in Gütersloh (CfADS) - Germany
-  * Duties included: Machine Learning, Robotik
-  * Supervisor: Prof. Dr.-Ing. Wolfram Schenck
-
-* 08/2019 - 01/2020: Intern
-  * Miele & Cie. KG in Gütersloh - Germany
-  * Duties included: Artificial Intelligence, Data Science
-  * Supervisor: Dr. rer. nat. Felix Reinhart
-  
-* 01/2019 - 07/2019: Working Student
-  * Center for Applied Data Science in Gütersloh (CfADS) - Germany
-  * Duties included: Machine Learning, Computer Vision
-  * Supervisor: Prof. Dr.-Ing. Wolfram Schenck
-
-* 12/2017 - 12/2018: Working Student
-  * Ceres Vision GmbH in Bielefeld - Germany
-  * Duties included: Computer Vision
+* 04/2021 - 07/2021: Student Assistant
+  * Leibniz University Hannover
+  * Tutor for the course "Complexity of Algorithms" at the Institute for Theoretical Computer Science
 
 
 Publications
@@ -43,25 +28,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching experience
-======
-* Sommer Semester 2023: Teachers Assistant in the course Foundations of Information Retrieval at the Leibniz University Hannover.
 
 Skills
 ======
-* Polyglot
-  * Arabic
-  * English
-  * French
-  * German
-* Programming Languages: Python, C++, C, Assembler, Java, C#
-* ML Frameworks: Keras, TensorFlow, PyTorch, RLlib
-* Tools: ROS, MoveIt, MuJoCo, PyBullet, Gazebo
+* Languages: German (Native Speaker), English (Professional working proficiency), Albanian (Enough for playground insults 👍)
+* Programming Languages: Python, SQL
+* Frameworks and Tools: PyTorch, Flask, PostgreSQL
+* Giving an hour-long 10-minute presentation
 
 
 Hobbies
 ======
-* Travelling
-* Astronomy
-* Running
-* Bikeing 
+* Sports ⚽🏀
+* Gaming 🎮
+* Wasting hours on random YouTube videos ✔️

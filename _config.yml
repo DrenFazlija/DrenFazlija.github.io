@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zai El Amri, Wadhah"
+title                    : "Fazlija, Dren"
 title_separator          : "-"
-name                     : &name "Wadhah Zai El Amri"
+name                     : &name "Dren Fazlija"
 description              : &description "Personal Website"
-url                      : https://wzaielamri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://DrenFazlija.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wzaielamri/wzaielamri.github.io"
+repository               : "DrenFazlija/DrenFazlija.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wadhah Zai El Amri"
+  name             : "Dren Fazlija"
   avatar           : "profile.png"
-  bio              : "PhD Student 🎓                  ML and Intelligent Systems Enthusiast 🧠🦾💻"
+  bio              : "Ph.D. Student 🎓                  Working on Adversarial Machine Learning and Robust Artificial Intelligence 🧠🤖🔒"
   location         : "Germany"
   employer         : "L3S Research Center" 
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=S-N6MacAAAAJ&hl=en"
-  email            : "wadhah.zai@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=lWQHyMoAAAAJ&hl"
+  email            : "dren.fazlija@l3s.de"
+  researchgate     : "https://www.researchgate.net/profile/Dren-Fazlija"
   uri              :  
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wzaielamri"
+  github           : "DrenFazlija"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "wadhah-zaielamri"
-  orcid            : "http://orcid.org/0000-0002-0238-4437"
+  linkedin         : "drenfazlija"
+  orcid            : "https://orcid.org/0000-0002-9133-3526"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wzaielamri"
+  twitter          : "FazlijaDren"
   vine             :
   weibo            :
   xing             :

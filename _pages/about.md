@@ -9,13 +9,13 @@ redirect_from:
 ---
 ## Welcome
 
-Hey,
+Hi 👋,
 
-My name is **Wadhah**, and I am pursuing my **PhD at L3S Research Center** in Germany. As a scientific researcher, I enjoy using my skills to contribute to the exciting technological advances that happen every day in the **artificial intelligence** field. I graduated from Bielefeld University in 2022 with a master's degree in Intelligent Systems.
+I am **Dren**, a Ph.D. student at the L3S research center in Hannover, Germany. My research interests are basically everything covered in the Wikipedia page for [Adversarial Machine Learning](https://en.wikipedia.org/wiki/Adversarial_machine_learning). I am particularly fond of **adversarial examples** and model **stealing** 🕵️
 
-My **research interests** include artificial intelligence, machine learning, reinforcement learning, personalized medicine, robotics and computer vision.
+I graduated from Leibniz University Hannover in 2022 with a master's degree in Computer Science.
 
-If you are intressted in discussing such topics feel free to contact me 😊 .
+Feel free to reach out if you want to discuss anything related to AI!
 
 
 ## Publications

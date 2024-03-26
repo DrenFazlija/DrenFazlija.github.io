@@ -8,7 +8,10 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2302.06975'
 citation: 'Niloy Ganguly, Dren Fazlija, Maryam Badar, Marco Fisichella, Sandipan Sikdar, Johanna Schrader, Jonas Wallat, Koustav Rudra, Manolis Koubarakis, Gourab K. Patro, Wadhah Zai El Amri, and Wolfgang Nejdl (2023). &quot;A Review of the Role of Causality in Developing Trustworthy AI Systems&quot; <i>arXiv:2302.06975</i>.'
 ---
-Topics: Topics: Causality, Artificial Intelligence,  Counterfactual, Interpretability, Explainability, Robustness, Bias, Discrimination, Fairness, Privacy, Safety, Healthcare.
+
+Currently *under review at ACM CSUR*
+
+Topics: Causality, Artificial Intelligence,  Counterfactual, Interpretability, Explainability, Robustness, Bias, Discrimination, Fairness, Privacy, Safety, Healthcare.
 
 [Download paper here](http://DrenFazlija.github.io/files/causalai.pdf)
 

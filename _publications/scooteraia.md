@@ -7,9 +7,8 @@ date: 2024-03-25
 venue: 'AAAI 2024 Spring Symposium on User-Aligned Assessment of Adaptive AI Systems'
 paperurl: 'https://aair-lab.github.io/aia2024/papers/fazlija_aia24.pdf'
 citation: 'Dren Fazlija, Arkadij Orlov, Johanna Schrader, Monty-Maximilian Zühlke, Michael Rohs, Daniel Kudenko. &quot;How Real Is Real? A Human Evaluation Framework for Unrestricted Adversarial Examples&quot; <i>AAAI 2024 Spring Symposium on User-Aligned Assessment of Adaptive AI Systems</i>.'
+comment: 'Ongoing Work'
 ---
-
-*Ongoing Work*
 
 Topics: Unrestricted Adversarial Examples, Subjective Image Quality Assessment, Adversarial Machine Learning, Computer Vision, Online Data Collection,Human Perception, Research Design.
 

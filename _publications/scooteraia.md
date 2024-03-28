@@ -10,6 +10,8 @@ citation: 'Dren Fazlija, Arkadij Orlov, Johanna Schrader, Monty-Maximilian Zühl
 comment: 'Ongoing Work'
 ---
 
+***Ongoing Work***
+
 Topics: Unrestricted Adversarial Examples, Subjective Image Quality Assessment, Adversarial Machine Learning, Computer Vision, Online Data Collection,Human Perception, Research Design.
 
 [Download paper here](http://DrenFazlija.github.io/files/scooter_aia24.pdf)

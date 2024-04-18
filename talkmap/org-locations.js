@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Gymnasium am Markt, Achim, Lower Saxony, Germany",
+    53.0127139,
+    9.038023245513571
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Stanford University, Stanford, California, USA",
+    37.431313849999995,
+    -122.16936535498309
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Leibnizhaus, Hannover, Lower Saxony, Germany",
+    52.37143375,
+    9.73222697250177
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Dr. Buhmann Schule, Hannover, Lower Saxony, Germany",
+    52.3728359,
+    9.743968501482346
+  ],
+  [
+    "Brainhouse 247, Laatzen, Lower Saxony, Germany",
+    52.320846700000004,
+    9.786749304728716
   ]
 ];

@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "St. Nicolai Bothfeld, Hannover, Lower Saxony, Germany",
+    52.413097300000004,
+    9.798551967867008
+  ],
+  [
     "Gymnasium am Markt, Achim, Lower Saxony, Germany",
     53.0127139,
     9.038023245513571

@@ -10,6 +10,11 @@ var addressPoints = [
     9.038023245513571
   ],
   [
+    "Berufsbildende Schule Burgdorf, Burgdorf, Lower Saxony, Germany",
+    52.43327455,
+    10.013943237123769
+  ],
+  [
     "Stanford University, Stanford, California, USA",
     37.431313849999995,
     -122.16936535498309

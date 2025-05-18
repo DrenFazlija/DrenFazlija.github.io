@@ -53,5 +53,10 @@ var addressPoints = [
     "Friedrich-Paffrath-Stra\u00dfe 101, Wilhelmshaven, Germany",
     53.5480146,
     8.088280012905999
+  ],
+  [
+    "Bozner Boden - Mitterweg, 7, 39100 Bolzano, Italy",
+    46.4956931,
+    11.3701309
   ]
 ];

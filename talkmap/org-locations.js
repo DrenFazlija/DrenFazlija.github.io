@@ -58,5 +58,10 @@ var addressPoints = [
     "Bozner Boden - Mitterweg, 7, 39100 Bolzano, Italy",
     46.4956931,
     11.3701309
+  ],
+  [
+    "Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
+    48.2350802,
+    16.4146333
   ]
 ];

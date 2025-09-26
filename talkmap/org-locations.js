@@ -63,5 +63,24 @@ var addressPoints = [
     "Austria Center Vienna, Bruno-Kreisky-Platz 1, 1220 Wien, Austria",
     48.2350802,
     16.4146333
+  ],
+  [
+    "ÜSTRA Betriebshof Glocksee, Ira-Wolkowa-Weg, 30167 Hannover, Germany",
+    52.3754295, 
+    9.7174792
+  ],
+  [
+    "Lichthof des Welfenschlosses der Leibniz Universität Hannover, Welfengarten 1, 30167 Hannover",
+    52.3826871, 
+    9.7181756
+  ],
+  [
+    "Bildungs- und Technologiezentrum (BTZ) der Handwerkskammer Berlin | Großer Saal & Foyer | Mehringdamm 14, 10961 Berlin, Germany",
+    52.4966028, 
+    13.388784
+  ],
+  [
+    "Ärztekammer Niedersachsen, Berliner Allee 20, 30175 Hannover, Germany",
+    52.3748064, 9.7506356
   ]
 ];

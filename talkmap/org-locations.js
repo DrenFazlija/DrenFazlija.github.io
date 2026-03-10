@@ -70,7 +70,7 @@ var addressPoints = [
     9.7174792
   ],
   [
-    "Lichthof des Welfenschlosses der Leibniz Universität Hannover, Welfengarten 1, 30167 Hannover",
+    "Lichthof des Welfenschlosses der Leibniz Universität Hannover, Welfengarten 1, 30167 Hannover, Germany",
     52.3826871, 
     9.7181756
   ],
@@ -82,5 +82,17 @@ var addressPoints = [
   [
     "Ärztekammer Niedersachsen, Berliner Allee 20, 30175 Hannover, Germany",
     52.3748064, 9.7506356
+  ],
+  [
+    "HI-SCORE, 28, Anna-Zammert-Straße, Südstadt, Südstadt-Bult, Hannover, Region Hannover, Niedersachsen, 30171, Germany",
+    52.3642923, 9.7637093
+  ],
+  [
+    "BBS 3 - Schule für Berufe am Bau, 6, Ohestraße, Calenberger Neustadt, Mitte, Hannover, Region Hannover, Niedersachsen, 30169, Germany",
+    52.3664355, 9.7246702
+  ],
+  [
+    "Resort & Spa Hilton Tanger Al Houara, RN1, 90100 Tanger طنجة, Morocco",
+    35.66764318322457, -5.965815742328867
   ]
 ];
